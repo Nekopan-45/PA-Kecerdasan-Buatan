@@ -7,10 +7,13 @@ Nama Anggota Kelompok:
 
 Job Desk:
 
+
 Penjelasan Dataset:
+
 Dataset kami mengandung berbagai macam gambar gestur tangan dari permainan populer yaitu gunting batu kertas
 
 Penjelasan Project:
+
 Project kami bertujuan untuk mendeteksi 3 bentuk tangan yaitu gunting batu dan kertas sesuai dengan yang diupload
 oleh pengguna dan akan memberikan output yaitu jenis dari ketiga gestur tangan tersebut
 
